@@ -9,3 +9,5 @@ demos/*.log
 _build
 .coverage
 .cache
+.idea
+venv
